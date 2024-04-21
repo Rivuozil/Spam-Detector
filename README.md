@@ -1,19 +1,18 @@
 <p align="center"> 
   <img src="image/Email Logo.png" alt="Email Logo.png" width="80px" height="80px">
 </p>
-<h1 align="center"> Spam Detector </h1>
-<h3 align="center"> COMP 6721 - Artificial Intelligence </h3>
-<h5 align="center"> Project Assignment 2 - <a href="https://www.concordia.ca/">Concordia University</a> (Winter 2020) </h5>
+<h1 align="center"> Spam Detector and Reply Generator </h1>
+<h5 align="center"> Final year project - <a href="(https://www.heritageit.edu/)">Heritage Institute of Technology</a> (Summer 2024) </h5>
 
 <p align="center"> 
 <img src="gif/spam detector.gif" alt="Animated gif pacman game" height="382px">
 </p>
 
-<p>I have developed a spam detector program in Python which classifies given emails as spam or ham using the Naive Bayes approach.</p>
+<p>We have developed a spam detector program in Python which classifies given emails as spam or ham using the Naive Bayes approach. Following up on that, I have used a local Llama2-7b-chat model to generate replies to emails using LangChain custom templates. Created a simple Streamlit app to allow users to use the functionality.</p>
 
 <h2> :floppy_disk: Project Files Description</h2>
 
-<p>This Project includes 3 executable files, 3 text files as well as 2 directories as follows:</p>
+<p>This Project includes 4 executable files, 3 text files as well as 2 directories as follows:</p>
 <h4>Executable Files:</h4>
 <ul>
   <li><b>spam_detector.py</b> - Includes all functions required for classification operations.</li>
