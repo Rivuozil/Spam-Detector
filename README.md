@@ -86,8 +86,7 @@ Just like the train.py file, at the beginning of this file, the spam_detector ha
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<!-- CREDITS -->
-<h2 id="credits"> :scroll: Credits</h2>
+
 
 Mohammad Amin Shamshiri
 
