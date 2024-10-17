@@ -84,7 +84,7 @@ Just like the train.py file, at the beginning of this file, the spam_detector ha
   </li>
 </ul>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 
 
 
